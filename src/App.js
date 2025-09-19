@@ -4,6 +4,7 @@ function App() {
 return (
 <div className="App">
     <h2>Hello . React Project</h2>
+    <h3>Update</h3>
 <Counter />
 </div>
 );
